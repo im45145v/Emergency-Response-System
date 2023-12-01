@@ -1,0 +1,661 @@
+X,Y,Name,OBJECTID,Zone_1,Division_1,PS_Name_1,Assembly,Percentage,Assembly1,Percentage1,Shape_Length,Shape_Area
+78.4480323001822,17.3561698202811,"
+     Bahadurpura
+    ",1,"South Zone
+","Bahadurpura
+","Bahadurpura
+","Bahadurpura
+","100
+",,,8624.2942718818,2751175.22329384
+78.5277189553204,17.5146122269058,"
+     Bollaram
+    ",2,"North Zone
+","Tirumalghery
+","Bollaram
+","Secunderabad Cantonment
+","100
+",,,16509.6172925548,9072466.37027842
+78.4785241560091,17.4790580676865,"
+     Bowenpally
+    ",3,"North Zone
+","Begumpet
+","Bowenpally
+","Secunderabad Cantonment
+","100
+",,,19005.1559724484,11453344.0210851
+78.5030035782691,17.4596598953404,"
+     Karkhana
+    ",4,"North Zone
+","Tirumalghery
+","Karkhana
+","Secunderabad Cantonment
+","100
+",,,9232.66801096841,4060658.60265521
+78.5029947595724,17.450845625783,"
+     Marredpally
+    ",5,"North Zone
+","Gopalpuram
+","Marredpally
+","Secunderabad Cantonment
+","100
+",,,6577.06579776193,2114506.44670456
+78.5163708575964,17.4479966108183,"
+     Tukaramgate
+    ",6,"North Zone
+","Gopalpuram
+","Tukaramgate
+","Secunderabad Cantonment
+","60
+","Secunderabad
+","40
+",8750.53064329014,3885166.21583826
+78.5101057406324,17.4789947301078,"
+     Tirumalghery
+    ",7,"North Zone
+","Tirumalghery
+","Tirumalghery
+","Secunderabad Cantonment
+","100
+",,,16199.2880739572,8910403.83795093
+78.4737409183265,17.4463845003297,"
+     Begumpet
+    ",8,"North Zone
+","Begumpet
+","Begumpet
+","Secunderabad Cantonment
+","50
+","Sanathanagar,Khairathabad
+","20,10
+",14995.9056015558,7126893.35451515
+78.4911843042025,17.4359786043532,"
+     Mahankali
+    ",9,"North Zone
+","Mahankali
+","Mahankali
+","Sanath Nagar
+","100
+",,,4552.2440241445,947973.193049853
+78.506236072524,17.4359130066585,"
+     Gopalpuram
+    ",10,"North Zone
+","Gopalpuram
+","Gopalpuram
+","Secunderabad Cantonment
+","60
+","Secunderababd,Sanathnagar
+","30,10
+",5560.62820199646,1378162.78121146
+78.4970587990527,17.4371023128319,"
+     Market
+    ",11,"North Zone
+","Mahankali
+","Market
+","Sanath Nagar
+","60
+","Secunderabad Cantonment
+","40
+",3730.18439086509,680627.451626757
+78.5138512012072,17.4281573214002,"
+     Chilkalguda
+    ",12,"East Zone
+","Chilkalguda
+","Chilkalguda
+","Sanath Nagar
+","30
+","Secunderabad
+","70
+",8006.02369160916,3338558.59510322
+78.5310632506069,17.4184853933169,"
+     Osamania University
+    ",13,"East Zone
+","OU sity
+","Osamania University
+","Secunderabad Cantonment
+","100
+",,,17984.254365502,8884090.8506556
+78.5307101002978,17.434935131983,"
+     Lalaguda
+    ",14,"East Zone
+","Chilkalguda
+","Lalaguda
+","Secunderabad Cantonment
+","100
+",,,8757.14086588048,2916626.12592449
+78.4938269680428,17.4237638230961,"
+     Gandhinagar
+    ",15,"Central Zone
+","Gandhinagar
+","Gandhinagar
+","Sanath Nagar
+","60
+","Musheerabad
+","40
+",6468.77792057772,1762444.54789521
+78.4994372679721,17.4152046175719,"
+     Musheerabad
+    ",16,"Central Zone
+","Chikkadpally
+","Musheerabad
+","Musheerabad
+","100
+",,,7376.15196169077,2238269.82313298
+78.5101685342478,17.4026374742304,"
+     Nallakunta
+    ",17,"East Zone
+","OU sity
+","Nallakunta
+","Musheerabad
+","40
+","Amberpet
+","40
+",7112.05269767451,1656884.32592099
+78.517797118849,17.3908525529158,"
+     Amberpet
+    ",18,"East Zone
+","Amberpet
+","Amberpet
+","Amberpet
+","100
+",,,12417.4251147941,4679500.52798481
+78.5167752122849,17.3743817768338,"
+     Malakpet
+    ",19,"South East Zone
+","Malakpet
+","Malakpet
+","Malakpet
+","100
+",,,8380.03108405621,3055438.0464344
+78.4995854606489,17.3289800960334,"
+     Kanchanbagh
+    ",20,"South East Zone
+","Chandrayangutta
+","Kanchanbagh
+","Chandryangutta
+","100
+",,,13621.9709293596,6898190.83523404
+78.5207645186504,17.355191882068,"
+     Saidabad
+    ",21,"South East Zone
+","Saidabad
+","Saidabad
+","Malakpet
+","100
+",,,9873.758838091,2493860.14831932
+78.5031059829091,17.3752910868804,"
+     Chaderghat
+    ",22,"South East Zone
+","Malakpet
+","Chaderghat
+","Malakpet
+","100
+",,,8762.09266157732,2681779.7002284
+78.4978959861063,17.403854876407,"
+     Chikkadpally
+    ",23,"Central Zone
+","Chikkadpally
+","Chikkadpally
+","Musheerabad
+","100
+",,,6393.76368978471,2263694.1812557
+78.4869760177151,17.398276614771,"
+     Narayanguda
+    ",24,"East Zone
+","Sulthan Bazar
+","Narayanguda
+","Khairathabad
+","80
+","Goshmahal,Amberpet
+","10,10
+",7535.25413211259,2195235.58599833
+78.4978116920322,17.3882178845583,"
+     Kachiguda
+    ",25,"East Zone
+","Amberpet
+","Kachiguda
+","Amberpet
+","95
+","Goshmahal
+","5
+",7332.50902068564,2245582.86982573
+78.4838608169007,17.3872864721276,"
+     Sultan Bazar
+    ",26,"East Zone
+","Sultan Bazar
+","Sultan Bazar
+","Goshmahal
+","90
+","Amberpet
+","10
+",5947.23028334037,1395548.16085449
+78.4955046847938,17.3706453430213,"
+     Dabeerpura
+    ",27,"South Zone
+","Mirchowk
+","Dabeerpura
+","Malakpet
+","100
+",,,4537.43548870742,1063656.5246094
+78.4847371674199,17.3519083529318,"
+     Bhavaninagar
+    ",28,"South East Zone
+","Santoshnagar
+","Bhavaninagar
+","Yakutpura
+","70
+","Charminar
+","30
+",4449.93858365211,1003551.22903177
+78.4760752593034,17.3421552801155,"
+     Chatrinaka
+    ",29,"South Zone
+","Falaknuma
+","Chatrinaka
+","Yakutpura
+","40
+","Chandryangutta,Bahadurpura
+","30,30
+",5588.98214120177,1798629.93394934
+78.4680285399392,17.3603641081834,"
+     Hussainialam
+    ",30,"South Zone
+","Charminar
+","Hussainialam
+","Charminar
+","90
+","Bahadurpura
+","10
+",5828.70724715801,1310376.14888564
+78.4599897246361,17.3619884318648,"
+     Kamatipura
+    ",31,"South Zone
+","Bahadurpura
+","Kamatipura
+","Charminar
+","50
+","Bahadurpura
+","50
+",5719.52338847874,1610448.72548993
+78.4666427632499,17.3461113677411,"
+     Shahalibanda
+    ",32,"South Zone
+","Falaknuma
+","Shahalibanda
+","Bahadurpura
+","70
+","Charminar
+","30
+",6441.95224579999,1543452.62761685
+78.4656715403774,17.331712680255,"
+     Falaknama
+    ",33,"South Zone
+","Falaknuma
+","Falaknama
+","Bahadurpura
+","70
+","Chandryangutta
+","30
+",8744.59640178491,3053191.74906181
+78.4411695711574,17.3453894924956,"
+     Kalapathar
+    ",34,"South Zone
+","Bahadurpura
+","Kalapathar
+","Bahadurpura
+","100
+",,,14596.8957710851,3930957.80520225
+78.4816692833375,17.3678030989217,"
+     Mirchowk
+    ",35,"South Zone
+","Mirchowk
+","Mirchowk
+","Malakpet
+","30
+","Charminar
+","70
+",7600.02790986265,2004429.23537357
+78.4801503733605,17.376707689773,"
+     Afzalgunj
+    ",36,"East Zone
+","Sultan Bazar
+","Afzalgunj
+","Goshmahal
+","100
+",,,6769.58497368621,1565472.8172319
+78.4684763138074,17.3752446958805,"
+     Shainathgung
+    ",37,"South West Zone
+","Begumbazar
+","Shainathgung
+","Goshmahal
+","100
+",,,6102.56531412184,1312578.47154993
+78.4500929385657,17.3680688072234,"
+     Kulsumpura
+    ",38,"South West Zone
+","Kulsumpura
+","Kulsumpura
+","Karwan
+","100
+",,,6951.46585134228,2153220.70851494
+78.470570073499,17.3832995185164,"
+     Begum bazar
+    ",39,"South West Zone
+","Begumbazar
+","Begum bazar
+","Goshmahal
+","100
+",,,4647.22014352352,781875.039016766
+78.4590273293512,17.3789401529551,"
+     Manghalhat
+    ",40,"South West Zone
+","Begumbazar
+","Manghalhat
+","Goshmahal
+","90
+","Nampally
+","10
+",6712.6017503408,1705733.86541418
+78.4613778546037,17.3886975779169,"
+     Habeebnagar
+    ",41,"South West Zone
+","Asifnagar
+","Habeebnagar
+","Nampally
+","80
+","Goshmahal
+","20
+",4247.46229290079,1266945.24147931
+78.4751870052669,17.3927443983526,"
+     Abid Road
+    ",42,"Central Zone
+","Abids
+","Abid Road
+","Goshmahal
+","100
+",,,5477.49713844245,1432606.19733645
+78.4610691364556,17.3972726528668,"
+     Nampally
+    ",43,"Central Zone
+","Abids
+","Nampally
+","Nampally
+","90
+","Goshmahal
+","10
+",5895.36438444776,1586720.3790109
+78.4701959977945,17.4027436169924,"
+     Saifabad
+    ",44,"Central Zone
+","Saifabad
+","Saifabad
+","Goshmahal
+","50
+","Khairthabad,Nampally
+","30,20
+",6992.97552499172,1567012.98097762
+78.4506595453242,17.4279312878447,"
+     Panjagutta
+    ",45,"West Zone
+","Panjagutta
+","Panjagutta
+","Khairathabad
+","80
+","Jubileehills
+","20
+",10254.9667779526,3939531.11039872
+78.4465030840916,17.4441835801621,"
+     S.R Nagar
+    ",46,"West Zone
+","Panjagutta
+","S.R Nagar
+","Sanath Nagar
+","100
+",,,7422.30982476694,2542940.21700078
+78.4113458404742,17.4307194291763,"
+     Jubilee Hills
+    ",47,"West Zone
+","Jubilee Hills
+","Jubilee Hills
+","Khairathabad
+","80
+","Jubilee Hills
+","20
+",13599.7192982869,6896054.17622912
+78.4301413220635,17.4197702641805,"
+     Banjara Hills
+    ",48,"West Zone
+","Banjara Hills
+","Banjara Hills
+","Khairathabad
+","80
+","Jubilee Hills
+","20
+",16473.2232142151,9272789.04488065
+78.3904047359681,17.3819713262441,"
+     Golkonda
+    ",49,"South West Zone
+","Golkonda
+","Golkonda
+","KARWAN
+","100
+",,,13494.7653574911,7933062.05753343
+78.4457027547434,17.3883168565097,"
+     Asifnagar
+    ",50,"South West Zone
+","Asifnagar
+","Asifnagar
+","Nampally
+","100
+",,,6267.23160733069,1892277.2644374
+78.4369834206879,17.3974887895991,"
+     Humayunagar
+    ",51,"South West Zone
+","Asifnagar
+","Humayunagar
+","Nampally
+","70
+","KARWAN
+","30
+",12519.6870237822,4150311.47956474
+78.420864205184,17.3843240541681,"
+     Langer House
+    ",52,"South West Zone
+","Golkonda
+","Langer House
+","KARWAN
+","100
+",,,9217.37840392435,4270077.93293037
+78.4982599493525,17.3426229515783,"
+     Santoshnagar
+    ",53,"South East Zone
+","Santoshnagar
+","Santoshnagar
+","Chandrayangutta
+","90
+","Yakatpura
+","10
+",7924.74886828729,2331250.57319827
+78.4449407247487,17.3783404655199,"
+     Tappachabutra
+    ",54,"South West Zone
+","Kulsumpura
+","Tappachabutra
+","Karwan
+","40
+","Goshamahal,Nampally
+","30,30
+",7172.55650703276,1915667.9383253
+78.4801313913236,17.3298285918508,"
+     Chandrayangutta
+    ",55,"South East Zone
+","Chandrayangutta
+","Chandrayangutta
+","Chandryangutta
+","100
+",,,13621.8040229069,3882731.97459784
+78.4982541507487,17.3600063453077,"
+     Madannapet
+    ",56,"South East Zone
+","Saidabad
+","Madannapet
+","Yakathpura
+","70
+","Malkpet
+","30
+",5674.26817492704,1625391.60779474
+78.4833447648101,17.4380360880702,"
+     Ramagopalpet
+    ",57,"North Zone
+","Mahankali
+","Ramagopalpet
+","Sanath Nagar
+","100
+",,,4612.02922387599,1201681.10961335
+78.4829215498192,17.4117913396068,"
+     Domalguda
+    ",58,"Central Zone
+","Gandinagar
+","Domalguda
+","Musheerabad
+","90
+","Khairathabad
+","10
+",6341.12139127826,2253368.36203739
+78.4740590581388,17.4226671227302,"
+     Lake PS
+    ",59,"Central Zone
+","Gandinagar
+","Lake PS
+","Khairathabad
+","90
+","Sanathnagar
+","10
+",11090.4915322613,6442250.90736216
+78.4573950802777,17.4118704448268,"
+     Khairtabad
+    ",60,"Central Zone
+","Saifabad
+","Khairtabad
+","Khairtabad
+","90
+","Nampally
+","10
+",7455.27142568294,1715605.21404136
+78.4498428471951,17.4040126110755,"
+     Masabtank
+    ",61,"West Zone
+","Banjara Hills
+","Masabtank
+","Nampally
+","80
+","Khairathabad
+","20
+",5350.48536791376,1011943.17828018
+78.4113394663525,17.4089642213079,"
+     Filmnagar
+    ",62,"West Zone
+","Banjara Hills
+","Filmnagar
+","61-JUBILEE HILLS
+","40
+","Khairathabad
+","60
+",9335.49282595517,3672828.83278982
+78.506206083666,17.3504344864534,"
+     IS Sadan
+    ",63,"South East Zone
+","Saidabad
+","IS Sadan
+","Yakutpura
+","60
+","Lal Bahadur Nagar
+","40
+",7621.06574380116,2860657.35630898
+78.4026789966514,17.3991174074064,"
+     Tolichowki
+    ",64,"South West Zone
+","Golconda
+","Tolichowki
+","61-JUBILEE HILLS
+","60
+","KARWAN
+","40
+",11832.1829454505,5071611.11191945
+78.5141534768451,17.4144643228498,"
+     Warasiguda
+    ",65,"East Zone
+","Chilkalguda
+","Warasiguda
+","Secunderabad
+","70
+","Musheerababd
+","30
+",5594.8686025046,1435976.46306845
+78.4842699018997,17.4603341294708,"
+     Tadbun
+    ",66,"North Zone
+","Begumpet
+","Tadbun
+","Secunderabad Cantonment
+","100
+",,,7034.93699148405,2207209.85200508
+78.4695186257114,17.3133072155583,"
+     Bandlaguda
+    ",67,"South East Zone
+","Chandryangutta
+","Bandlaguda
+","Chandryangutta
+","85
+","Bahadurpura
+","15
+",10840.2465760245,4419035.1240579
+78.4330752075534,17.384626376826,"
+     Gudimalkapur
+    ",68,"South West Zone
+","Kulsumpura
+","Gudimalkapur
+","KARWAN
+","50
+",,,7163.76210069436,1964773.6653228
+78.4305365131115,17.4391791746586,"
+     Rahmatnagar
+    ",69,"West Zone
+","Jubilee Hills
+","Rahmatnagar
+","Jubilee Hills
+","100
+",,,8269.79126542797,2601391.68522289
+78.4215772415789,17.4486250720926,"
+     Borabanda
+    ",70,"West Zone
+","Jubilee Hills
+","Borabanda
+","Jubilee Hills
+","100
+",,,10523.7372382276,3385503.63648112
+78.4752831338102,17.3654957439921,"
+     Charminar
+    ",71,"South Zone
+","Charminar
+","Charminar
+","Charminar
+","100
+",,,5316.94760846226,772176.431958035
+78.488401953075,17.3619554755612,"
+     Rein Bazar
+    ",72,"South East Zone
+","Santoshnagar
+","Rein Bazar
+","Yakatpura
+","85
+","Malakpet,Charminar
+","10,5
+",4986.71292594326,1214441.18537597
+78.4760688463888,17.352679261806,"
+     Moghalpura
+    ",73,"South Zone
+","Mirchowk
+","Moghalpura
+","Charminar
+","100
+",,,4395.39638435921,867735.075514892
